@@ -41,9 +41,9 @@ class OnboardingViewController: UIViewController {
         
         slides = [
             
-            OnboardSlide(title: "Teste pagina 1", description: "Descrição da página 1", image: UIImage(named: "Mecanico.png")!),
-            OnboardSlide(title: "Teste pagina 2", description: "Descrição da página 2", image: UIImage(named: "Mecanico.png")!),
-            OnboardSlide(title: "Teste pagina 3", description: "Descrição da página 3", image: UIImage(named: "Mecanico.png")!)
+            OnboardSlide(title: "Teste pagina 1", description: "Descrição da página 1", image: UIImage(named: "clip-car-service-support.png")!),
+            OnboardSlide(title: "Teste pagina 2", description: "Descrição da página 2", image: UIImage(named: "arabica-car-service-2.png")!),
+            OnboardSlide(title: "Teste pagina 3", description: "Descrição da página 3", image: UIImage(named: "lime-413.png")!)
             
         ]
         
