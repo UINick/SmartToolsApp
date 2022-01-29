@@ -1,0 +1,21 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '12.0'
+
+target 'smartTools' do
+  pod 'RxSwift', '6.5.0'
+  pod 'RxCocoa', '6.5.0'
+  pod 'SnapKit', '~> 5.0.0'
+  use_frameworks!
+
+  # Pods for smartTools
+
+  target 'smartToolsTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'smartToolsUITests' do
+    # Pods for testing
+  end
+
+end

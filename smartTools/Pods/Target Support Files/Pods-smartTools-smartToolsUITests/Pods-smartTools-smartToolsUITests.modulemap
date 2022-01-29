@@ -1,0 +1,6 @@
+framework module Pods_smartTools_smartToolsUITests {
+  umbrella header "Pods-smartTools-smartToolsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
