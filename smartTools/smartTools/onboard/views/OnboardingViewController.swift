@@ -50,7 +50,7 @@ class OnboardingViewController: UIViewController {
     }
     
     @IBAction func newxtBtnClicked(_ sender: UIButton) {
-        
+         
         if currentPage == slides.count - 1 {
             
             let controller =
